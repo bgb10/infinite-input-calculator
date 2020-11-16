@@ -1,11 +1,11 @@
-# CAU20-OOP
+# Infinite-input-calculator
+Infinite length input(operand) calculator for Class : *CAU-2020-2 OOP(Object Oriented Programming) - Project 1*
 
-Fall 2020 Object Oriented Programming course projects
+## Notice
+- Compiled in Visual Studio Code
+- **DO NOT COPY**
 
-## Course homepage
-
-[~bongbong/oop20](http://cau.ac.kr/~bongbong/oop20/)
-
-## Project Notion page
-
-[C++ Team Project](https://www.notion.so/C-Team-Project-9e3d047c3f8e41d6b9bdf0dae5c198c6)
+## Contents
+- Infinite input calculator
+  - Operand length is infinite (until your memory withstands)
+  - Followed OOP concepts thoroughly(perspective of sophomore XD)
