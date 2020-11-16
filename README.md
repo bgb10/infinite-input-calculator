@@ -1,4 +1,4 @@
-# University-student-manager
+# University-Student-Manager
 University student manager for Class : *CAU-2020-2 OOP(Object Oriented Programming) - Project 1*
 
 ## Notice
