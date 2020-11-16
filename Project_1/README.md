@@ -19,7 +19,7 @@ Install git from your preferred provider. Log in to your GitHub account on the g
 If you are using git cli, execute the following command on your terminal (or bash).
 
 ```bash
-git clone https://github.com/BedrockDev/CAU20-OOP.git
+git clone https://github.com/bgb10/infinite-input-calculator.git
 ```
 
 ### Step 3: Try compiling the example program
