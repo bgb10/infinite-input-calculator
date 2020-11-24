@@ -7,3 +7,10 @@ University student manager for Class : *CAU-2020-2 OOP(Object Oriented Programmi
 
 ## Contents
 - Details in documents. See the docs.
+
+## Contributers
+- @nt.cho
+- @foba1
+- @easyhak
+- @falconlee236
+- @sehwanii
