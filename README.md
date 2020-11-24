@@ -9,8 +9,8 @@ University student manager for Class : *CAU-2020-2 OOP(Object Oriented Programmi
 - Details in documents. See the docs.
 
 ## Contributers
-- @nt.cho
-- @foba1
-- @easyhak
-- @falconlee236
-- @sehwanii
+- [@nt.cho](https://github.com/ntcho)
+- [@foba1](https://github.com/foba1)
+- [@easyhak](https://github.com/easyhak)
+- [@falconlee236](https://github.com/falconlee236)
+- [@sehwanii](https://github.com/sehwanii)
